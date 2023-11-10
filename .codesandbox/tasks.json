@@ -11,53 +11,43 @@
   "tasks": {
     "build": {
       "name": "build",
-      "command": "npm run build",
-      "runAtStart": false
+      "command": "npm run build"
     },
     "test-setup": {
       "name": "test-setup",
-      "command": "npm run test-setup",
-      "runAtStart": false
+      "command": "npm run test-setup"
     },
     "test-teardown": {
       "name": "test-teardown",
-      "command": "npm run test-teardown",
-      "runAtStart": false
+      "command": "npm run test-teardown"
     },
     "karma": {
       "name": "karma",
-      "command": "npm run karma",
-      "runAtStart": false
+      "command": "npm run karma"
     },
     "test": {
       "name": "test",
-      "command": "npm run test",
-      "runAtStart": false
+      "command": "npm run test"
     },
     "example": {
       "name": "example",
-      "command": "npm run example",
-      "runAtStart": false
+      "command": "npm run example"
     },
     "lint": {
       "name": "lint",
-      "command": "npm run lint",
-      "runAtStart": false
+      "command": "npm run lint"
     },
     "lint-fix": {
       "name": "lint-fix",
-      "command": "npm run lint-fix",
-      "runAtStart": false
+      "command": "npm run lint-fix"
     },
     "tslint": {
       "name": "tslint",
-      "command": "npm run tslint",
-      "runAtStart": false
+      "command": "npm run tslint"
     },
     "tslint-fix": {
       "name": "tslint-fix",
-      "command": "npm run tslint-fix",
-      "runAtStart": false
+      "command": "npm run tslint-fix"
     }
   }
 }
