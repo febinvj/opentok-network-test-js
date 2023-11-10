@@ -1,0 +1,63 @@
+{
+  // These tasks will run in order when initializing your CodeSandbox project.
+  "setupTasks": [
+    {
+      "name": "Install Dependencies",
+      "command": "npm install"
+    }
+  ],
+
+  // These tasks can be run from CodeSandbox. Running one will open a log in the app.
+  "tasks": {
+    "build": {
+      "name": "build",
+      "command": "npm run build",
+      "runAtStart": false
+    },
+    "test-setup": {
+      "name": "test-setup",
+      "command": "npm run test-setup",
+      "runAtStart": false
+    },
+    "test-teardown": {
+      "name": "test-teardown",
+      "command": "npm run test-teardown",
+      "runAtStart": false
+    },
+    "karma": {
+      "name": "karma",
+      "command": "npm run karma",
+      "runAtStart": false
+    },
+    "test": {
+      "name": "test",
+      "command": "npm run test",
+      "runAtStart": false
+    },
+    "example": {
+      "name": "example",
+      "command": "npm run example",
+      "runAtStart": false
+    },
+    "lint": {
+      "name": "lint",
+      "command": "npm run lint",
+      "runAtStart": false
+    },
+    "lint-fix": {
+      "name": "lint-fix",
+      "command": "npm run lint-fix",
+      "runAtStart": false
+    },
+    "tslint": {
+      "name": "tslint",
+      "command": "npm run tslint",
+      "runAtStart": false
+    },
+    "tslint-fix": {
+      "name": "tslint-fix",
+      "command": "npm run tslint-fix",
+      "runAtStart": false
+    }
+  }
+}

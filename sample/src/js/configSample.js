@@ -1,5 +1,5 @@
 module.exports = {
-  apiKey: '123456', // Add your own OpenTok API key here. See the README in this directory.
-  sessionId: '1_MX40NzIwMzJ-fjE1MDElGQkJJfn4', // Add your own session ID here
-  token: 'T1==cGFydG5lcXN0PQ==', // Add your own token here
+  apiKey: '47640051', // Add your own OpenTok API key here. See the README in this directory.
+  sessionId: '2_MX40NzY0MDA1MX5-MTY5OTU5NjQ1MDU3MH4xQlJORmNRMnM4WnFRWG9kNDV2N3o1ZTZ-fn4', // Add your own session ID here
+  token: 'T1==cGFydG5lcl9pZD00NzY0MDA1MSZzaWc9YWQyYzgxNmFkM2E3YjNkN2U1MDE5YzE1ODk4N2RiNDNmMmNkYjNkZDpzZXNzaW9uX2lkPTJfTVg0ME56WTBNREExTVg1LU1UWTVPVFU1TmpRMU1EVTNNSDR4UWxKT1JtTlJNbk00V25GUldHOWtORFYyTjNvMVpUWi1mbjQmY3JlYXRlX3RpbWU9MTY5OTU5NjQ1MSZub25jZT0wLjgwNjc5MzMwNjY1NjEyNDgmcm9sZT1tb2RlcmF0b3ImZXhwaXJlX3RpbWU9MTcwMjE4ODQ1MSZpbml0aWFsX2xheW91dF9jbGFzc19saXN0PQ==', // Add your own token here
 }
